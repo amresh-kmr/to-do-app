@@ -1,0 +1,25 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  width: 80%;
+  margin: auto;
+}
+input {
+  height: 35px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+hr {
+  margin-top: 20px;
+}
+.error {
+  color: red;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+textarea {
+  height: 80px;
+  font-size: 25px;
+}
